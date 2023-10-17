@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Игра летучие мыши</string>
+    <string name="question_1">Как давно на Земле появились летучие мыши? \n\n A) •65 млн.лет назад \n\n B) •52 млн.лет назад \n\n C) •15 млн.лет назад</string>
+    <string name="question_2"></string>
+
+    <string name="a_button">A</string>
+</resources>
