@@ -1,12 +1,10 @@
 package com.example.bat_game
 
-import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
-import com.example.m_bat_game_.EndActivity
+import androidx.appcompat.app.AppCompatActivity
 import com.example.m_bat_game_.R
 
 class MainActivity : AppCompatActivity() {
